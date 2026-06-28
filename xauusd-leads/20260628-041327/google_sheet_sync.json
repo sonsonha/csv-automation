@@ -1,0 +1,11 @@
+{
+  "schema_version": "google-sheets-sync/v1",
+  "status": "completed",
+  "rows_read": 0,
+  "rows_written": 0,
+  "duplicates_skipped": 0,
+  "sheet": "XAUUSD_Qualified_Production",
+  "warnings": [
+    "no_non_empty_rows_to_append"
+  ]
+}
