@@ -1,0 +1,11 @@
+{
+  "schema_version": "google-sheets-sync/v1",
+  "status": "completed",
+  "rows_read": 35,
+  "rows_written": 5,
+  "duplicates_skipped": 30,
+  "sheet": "XAUUSD_Leads",
+  "warnings": [
+    "existing_sheet_header_missing_username_x_assuming_csv_column_index"
+  ]
+}
