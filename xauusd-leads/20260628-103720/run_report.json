@@ -1,0 +1,40 @@
+{
+  "schema_version": "pipeline-run-report/v1",
+  "run_id": "20260628-103720",
+  "started_at": "2026-06-28T10:37:20Z",
+  "finished_at": "2026-06-28T10:43:37Z",
+  "duration_seconds": 377,
+  "pipeline_version": "phase-3e",
+  "input": {
+    "raw_csv": "/home/hermesads/xauusd-leads/apify-english-prod/raw_leads.csv"
+  },
+  "normalize": {
+    "raw_rows": 267,
+    "unique_users": 173,
+    "duplicates_removed": 94
+  },
+  "qualification": {
+    "qualified": 64,
+    "rejected": 109,
+    "average_score": 6.02,
+    "median_score": 6.0
+  },
+  "recent_x": {
+    "attempted": 0,
+    "completed": 0,
+    "failed": 0,
+    "skipped": 0,
+    "cache_hits": 0
+  },
+  "google_sheet": {
+    "rows_written": 42,
+    "duplicates_skipped": 22
+  },
+  "outputs": {
+    "normalized_json": "/home/hermesads/xauusd-leads/apify-english-prod/normalized_leads.json",
+    "enriched_json": "/home/hermesads/xauusd-leads/apify-english-prod/enriched_leads.normalized.json",
+    "csv": "/home/hermesads/xauusd-leads/apify-english-prod/enriched_leads.csv"
+  },
+  "warnings": [],
+  "status": "completed"
+}
