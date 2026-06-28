@@ -1,0 +1,9 @@
+{
+  "schema_version": "google-sheets-sync/v1",
+  "status": "completed",
+  "rows_read": 21,
+  "rows_written": 2,
+  "duplicates_skipped": 19,
+  "sheet": "XAUUSD_Leads",
+  "warnings": []
+}
