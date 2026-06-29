@@ -1,0 +1,9 @@
+{
+  "schema_version": "google-sheets-sync/v1",
+  "status": "completed",
+  "rows_read": 33,
+  "rows_written": 8,
+  "duplicates_skipped": 25,
+  "sheet": "XAUUSD_Qualified_Production",
+  "warnings": []
+}
